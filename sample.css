@@ -3,4 +3,5 @@ color: lightblue;
 }
 div {
     background-color: blue;
+    display: inline-block;
 }
