@@ -1,7 +1,12 @@
 p {
-color: lightblue;
+    color: lightblue;
 }
 div {
     background-color: blue;
     display: inline-block;
+}
+
+h1 {
+    color: red;
+    text-align: center;
 }
